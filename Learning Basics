@@ -1,0 +1,13 @@
+
+
+Start Python:
+
+At Anaconda Prompt (terminal on Linux or macOS), type python and press Enter.
+
+The >>> means you are in Python.
+
+Write a Python program:
+
+At the >>>, type print("Hello Anaconda!") and press Enter.
+
+When you press enter, your program runs. The words “Hello Anaconda!” print to the screen. You’re programming in Python!
