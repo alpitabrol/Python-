@@ -9,3 +9,5 @@ print(x, y)
 x, y = y, x 
 
 print(x, y) 
+
+Even, Reverse swapping is also possible.
