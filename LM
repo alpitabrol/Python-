@@ -12,7 +12,8 @@ print(x, y)
 
 Even, Reverse swapping is also possible.
 
-Program/Source Code
+Program/Source Code:
+
 Here is the source code of a Python program to convert binary to Gray codeword. The program output is shown below.
 
 def binary_to_gray(n):
