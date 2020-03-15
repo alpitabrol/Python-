@@ -14,4 +14,18 @@ At the >>>, type print("Hello Anaconda!") and press Enter.
 When you press enter, your program runs.
 The words “Hello Anaconda!” print to the screen. You’re programming in Python! :)
 
-Another program I have learnt:
+Another easy commands in Python:
+1.name = input('What is your name?\n')
+print ('Hi, %s.' % name)
+
+2.def greet(name):
+    print ('Hello', name)
+
+greet('Jack')
+greet('Jill')
+greet('Bob')
+
+Python Flow Control are if,else; for loop; while loop; break and continue and pass.
+It has different datatypes such as numbers, list, tuples,string,set and dictionary.
+
+
